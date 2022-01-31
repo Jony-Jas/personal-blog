@@ -2,7 +2,7 @@
 
 > This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). Which renders blog posts from a markdown file and shows it in the browser.
 
-### Visit : https://personal-blog-theta-five.vercel.app/
+### Visit : https://blog.jonyjas.com/
 
 ## Screenshot 🖼️:
 
