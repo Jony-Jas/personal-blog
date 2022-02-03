@@ -12,8 +12,8 @@ function Hero() {
           height={300}
         />
       </div>
-      <h1>Welcome to my page 👨‍💻</h1>
-      <p>I blog about web, app development and information about recent advancement in technology.</p>
+      <h1>Welcome to my blog 👨‍💻</h1>
+      <p>I blog about web &#38; app development and share insights and views on recent advancements in technology.</p>
     </section>
   );
 }
