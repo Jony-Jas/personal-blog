@@ -11,10 +11,9 @@ To detect the shake event in React Native, we need to get access to the accelero
 
 
 ## Platform Compatibility
-| Android Device | Android Emulator | iOS Device | iOS Simulator | 	Web |
-| --- | ----------- | --- | ----------- | --- |
-| ✅ | ✅ | ✅ | ❌ | ✅ |
-|
+| Android Device | Android Emulator | iOS Device | iOS Emulator | Web |
+|:--------------:|:----------------:|:----------:|:------------:|:---:|
+|        ✅       |         ✅        |      ✅     |       ❌      |  ✅  |
 
 * First, we need to install the expo-sensors package.<br>```expo install expo-sensors```
 * In the Expo app<br>```import { Accelerometer } from 'expo-sensors';```
