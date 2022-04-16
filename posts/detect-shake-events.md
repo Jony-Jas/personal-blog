@@ -1,7 +1,7 @@
 ---
 title: Detect Shake Events in React Native
 excerpt: Get access to the accelerometer sensor in React Native to detect shake events
-image: mastering-js-thumb.png
+image: detect-shake-events.png
 isFeatured: true
 date: '2022-04-16'
 ---
