@@ -1,5 +1,5 @@
 .logo {
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
     font-size: var(--size-5);
     font-weight: bold;
     font-family: 'Oswald', sans-serif;
